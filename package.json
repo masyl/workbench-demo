@@ -1,0 +1,16 @@
+{
+  "author": "Mathieu Sylvain <mathieu.sylvain@nurun.com>",
+  "name": "workbench-demo",
+  "description": "A Demo Prototype for Workbench",
+  "version": "0.0.1",
+  "repository": {
+    "url": "git@github.com:masyl/workbench-demo.git"
+  },
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
